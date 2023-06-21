@@ -17,7 +17,7 @@ public class Noname {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hii");
-        // Push the command
+        // Pull the command
         //fetch and merge
         // push 
     }
